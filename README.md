@@ -1,2 +1,2 @@
-# Kanban-QuickSell
-Kanban Board for frontend
+# Santosh-Kanban-Assignment
+Assignment for QuickSell frontend
