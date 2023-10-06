@@ -1,2 +1,2 @@
 # Santosh-Kanban-Assignment
-Assignment for QuickSell frontend
+Frontend assignment for QuickSell Using React and API.
